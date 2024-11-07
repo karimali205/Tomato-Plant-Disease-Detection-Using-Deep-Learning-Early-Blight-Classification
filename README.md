@@ -1,0 +1,2 @@
+# Tomato-Plant-Disease-Detection-Using-Deep-Learning-Early-Blight-Classification
+ Tomato Disease Classification This deep learning project classifies tomato plant health into two categories: Tomato_Early_blight and Tomato_healthy. Built in Python with Jupyter Notebook, the model is trained on Kaggle data using CNNs for accurate disease detection, aiming to help farmers with early blight identification and timely interventions.
